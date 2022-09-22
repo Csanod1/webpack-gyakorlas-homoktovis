@@ -22,5 +22,39 @@ header > h1{
 section{
     margin-top: 10px;
     margin-bottom: 10px;
-    
+    background-color: white;
+}
+nav{
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    height: 60px;
+    padding-top: 15px;
+    padding-bottom: auto;
+}
+a{
+    margin-right: 30px;
+    margin-left: auto;
+    color:orange;
+    text-decoration: none;
+}
+#kupon{
+    font-size: 40px;
+}
+.cimsor{
+    background-color: orange;
+}
+#bokor{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    padding: 10px;
+}
+div > img{
+    width: 230px;
+}
+section > img{
+    padding-bottom: 20px;
 }
